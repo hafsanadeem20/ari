@@ -27,6 +27,7 @@ install.packages("ari")
 
 You can also install the development version of Ari from GitHub with:
 
+
 ```R
 # install.packages("devtools")
 devtools::install_github("seankross/ari@dev")
@@ -128,3 +129,5 @@ investment and APIs are always changing. If the interface to a software library
 changes it's particularly arduous to re-record an entire lecture because some
 function arguments changed. By using Ari we hope to be able to rapidly create
 and update video content.
+
+this is for experiment of pull request
